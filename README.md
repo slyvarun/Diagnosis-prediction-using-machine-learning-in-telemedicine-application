@@ -1,0 +1,2 @@
+# Diagnosis-prediction-using-machine-learning-in-telemedicine-application
+I developed a machine learning model that predicts diseases based on health parameters. By analyzing key health data, the model can provide early detection insights, enabling proactive healthcare decisions. This project aims to enhance medical diagnostics by leveraging data-driven techniques for better accuracy and efficiency
